@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar';
+import Carousel from './components/Carousel';
 import './App.css';
 
 
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
 
       <Navbar/>
+      <Carousel/>
 
         <h1 className="title">React App</h1>
 

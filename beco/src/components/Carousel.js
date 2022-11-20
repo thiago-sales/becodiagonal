@@ -9,7 +9,7 @@ function Carousel(){
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://c4.wallpaperflare.com/wallpaper/932/891/825/hogwarts-legacy-video-games-dragon-owl-harry-potter-hd-wallpaper-preview.jpg" 
+      <img src="https://wallpaper.dog/large/17022731.jpg" 
         class="d-block w-100" alt="imagem um" />
       <div class="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
@@ -17,7 +17,7 @@ function Carousel(){
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://images3.alphacoders.com/178/178309.jpg" 
+      <img src="https://wallpaperfx.com/view_image/the-wizarding-world-of-harry-potter-1920x1200-wallpaper-15014.jpg" 
         class="d-block w-100" alt="imagem dois" />
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
@@ -25,7 +25,7 @@ function Carousel(){
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://wallpapers.com/images/hd/harry-potter-characters-using-magic-6nhsunyyq4kib7u8.jpg" 
+      <img src="https://i.pinimg.com/originals/ab/40/08/ab400877fe3d24117ad68fc00d0718b5.jpg" 
         class="d-block w-100" alt="imagem três" />
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>

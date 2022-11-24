@@ -10,7 +10,7 @@ function App() {
       <Navbar/>
       <Carousel/>
 
-        <h1 className="title">Becodiagonal</h1>
+        <h1 className="title">Beco Diagonal</h1>
 
     </div>
     
